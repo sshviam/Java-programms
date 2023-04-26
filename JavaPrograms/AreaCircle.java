@@ -1,3 +1,4 @@
+package JavaPrograms;
 import java.util.Scanner;
     public class AreaCircle {
         
@@ -12,5 +13,6 @@ import java.util.Scanner;
          float pi = 3.14f;
          //double pi = Math.PI;
          System.out.println("Value of pi is :"+pi);
-    }
+         sc.close();
+        }
 }
