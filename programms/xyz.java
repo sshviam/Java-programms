@@ -7,8 +7,7 @@ public class xyz {
         double teamNewzland = 0.4;
         double teamEngland = 0.5;
         double teamPakistan = 0.8;
-
-        // Compare win percentages using logical operators
+        
         if (teamAustralia > teamNewzland && teamAustralia > teamEngland && teamAustralia > teamPakistan) {
             System.out.println("Team Australia has the highest win percentage.");
         } else if (teamNewzland > teamEngland && teamNewzland > teamPakistan) {
