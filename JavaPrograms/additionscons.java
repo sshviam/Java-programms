@@ -1,5 +1,4 @@
 package JavaPrograms;
-import java.util.Scanner;
 public class additionscons {
     int num1;
     int num2;
