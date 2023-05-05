@@ -1,11 +1,9 @@
 package JavaPrograms;
 import java.util.Scanner;
-
-import programms.logicalOP;
-public class printf {
+public class printf { 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-       // String name = "Shivam";
+        //String name = "Shivam";
         //int age = 19;
         //String course = "Java";
         //String city = "Vadodara";
