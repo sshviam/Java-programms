@@ -1,4 +1,4 @@
-package programms;
+package JavaPrograms;
 import java.util.Scanner;
 public class logicalOP {
     public static void main(String[] args) {

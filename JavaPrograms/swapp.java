@@ -1,4 +1,4 @@
-package programms;
+package JavaPrograms;
 import java.util.Scanner;
 public class swapp {
     public static void main(String[] args) {
