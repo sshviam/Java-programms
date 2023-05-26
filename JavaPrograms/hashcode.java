@@ -6,3 +6,4 @@ public class hashcode {
         System.out.println(MyStr.hashCode());
     }
 }
+//its gives you string's hashcode that you entered in string " ";0
