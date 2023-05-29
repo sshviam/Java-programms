@@ -13,4 +13,4 @@ public class reverseS{
         }       
         System.out.println("Reversed word :"+nstr);
     }
-}
+} 
