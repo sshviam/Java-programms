@@ -8,6 +8,7 @@ public class Arrray {
         byteArray[2] = 30;
         byteArray[3] = 40;
         byteArray[4] = 50;
-        System.out.println(byteArray[4]);
+        byte sum = (byte) (1+2);
+        System.out.println("sum of 2 digit = "+sum);
     }
 }
