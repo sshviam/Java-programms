@@ -1,3 +1,4 @@
+package JavaPrograms;
 import java.util.Scanner;
 public class Palind {
     void find(int num)

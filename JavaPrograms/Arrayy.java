@@ -1,5 +1,4 @@
 package JavaPrograms;
-import java.util.Arrays;
 public class Arrayy {
     public static void main(String[] args) {
         String str = "Batman is dark guy";

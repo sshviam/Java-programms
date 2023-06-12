@@ -8,7 +8,7 @@ public class newstring {
         String str = name;
         // String res = str.toUpperCase();
         // System.out.println("result is :"+res);
-
-        
+        sc.close();
+        str.getClass();
     }
 }

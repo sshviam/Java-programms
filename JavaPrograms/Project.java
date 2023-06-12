@@ -49,5 +49,6 @@ public class Project {
         int dis=(price*per)/100;
         int finalp=price-dis;
         System.out.println("your deducted price is :"+finalp);
+        sc.close();
     }
 }

@@ -14,6 +14,7 @@ public class swapp {
     b = b - a;
     System.out.println("Value of a is :"+a);
     System.out.println("Value of b is :"+b);
+    System.out.println("Value of c is :"+c);
     sc.close();
 }
 }

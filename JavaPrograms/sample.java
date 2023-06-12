@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class sample {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a list of numbers separated by spaces: ");
-        String input = scanner.nextLine();
+        String input = sc.nextLine();
 
         String[] numbers = input.split(" ");
         int first = Integer.parseInt(numbers[0]);
@@ -14,5 +14,6 @@ public class sample {
 
         System.out.println("First number: " + first);
         System.out.println("Last number: " + last);
+        sc.close();
     }
 }

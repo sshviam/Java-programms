@@ -2,7 +2,7 @@ package JavaPrograms;
 import java.util.ArrayList;
 import java.util.List;
 
-public class fljln {
+public class primeno1to100 {
     public static void main(String[] args) {
         List<Integer> primeNumbers = new ArrayList<>();
 
