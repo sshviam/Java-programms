@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Sixteen {
-    xpublic static void main(String[] args) {
+    public static void main(String[] args) {
         List<String> arrayList = new ArrayList<>();
         arrayList.add("apple");
         arrayList.add("banana");

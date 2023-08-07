@@ -135,5 +135,3 @@ public class student extends JFrame{
         frame.setResizable(true);
     }
 }
-
-    

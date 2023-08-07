@@ -11,7 +11,7 @@ public class Stringg {
         {
             System.out.println("Hello Shivam");
         }
-        else{
+        {
             System.out.println("Hello Batman");
         }
         System.out.println("Result is :"+res);
