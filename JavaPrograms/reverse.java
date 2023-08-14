@@ -1,4 +1,4 @@
-package JavaPrograms;
+
 import java.util.Scanner;
 public class reverse {
     void reverseNumber(int num)

@@ -25,7 +25,7 @@ public class listnoprimenodd {
         System.out.println("\nOdd numbers between 1 to 100: ");
         for (int number : oddNumbers);
         {
-            System.out.print(number +" ");
+            System.out.print(number+" ");
         }
     }
     public static void boolean isPrime(int number)
