@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class pow {
+public class Armstrongg {
     public static void main(String[] args) {
         double rem = 0;
         double arms = 0;
