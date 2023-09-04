@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Bitwise {
     public static void main(String[] args) {
         int a = 30;
-        int b = 1;
-        
+        int b = 50;
+
         System.out.println("a&b = "+ (a & b)); //bitwise and
         System.out.println("a|b = "+(a | b));  //bitwise or
         System.out.println("a^b = "+(a ^ b));  //bitwise xor

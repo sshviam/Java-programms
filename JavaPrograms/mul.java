@@ -1,4 +1,3 @@
-package JavaPrograms;
 abstract class Inh{
     public void add (int x , int y )
     {
